@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="" width="100%" alt="Mustapha Agjdar - Banner" />
-</p>
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
