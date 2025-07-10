@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mustapha-agjdar/mustapha-agjdar/assets/your-custom-banner.png" width="100%" alt="Mustapha Agjdar - Banner" />
+  <img src="" width="100%" alt="Mustapha Agjdar - Banner" />
 </p>
 
 <div align="center">
